@@ -1,2 +1,2 @@
-# oldDBbot
-The old version of the DB bot
+# Daobi Bot
+ DAObi Discord Bot (On-Chain)
